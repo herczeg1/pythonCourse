@@ -21,7 +21,7 @@ This IP contains 4 segments of lenght: 3, 3, 2, 1, 2 ,1
 analyze_ip("192.16t8.1d0.1.45.6") #non numerical characters are ignored
 This IP contains 4 segments of lenght: 3, 3, 2, 1, 2 ,1
 
-analyze_ip("213.21.12.300") #non numerical characters are ignored
+analyze_ip("213.21.12.300") 
 This IP contains 4 segments of lenght: 3, 2, 2, 3
 
 
@@ -47,7 +47,7 @@ This IP is invalid.
 There are too many octets
 There are illegal carachter
 
-analyze_ip("213.21.12.300") #non numerical characters are ignored
+analyze_ip("213.21.12.300") 
 This IP is invalid. 
 Octects should contain values between 0 and 255
 
