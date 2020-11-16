@@ -1,4 +1,5 @@
 .idea
+hidden_notebooks
 hidden_notebooks/
 .DS_Store
 .ipynb_checkpoints/
